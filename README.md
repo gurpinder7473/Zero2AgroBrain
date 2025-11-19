@@ -8,7 +8,7 @@
 
 ---
 
-## 👑 **Created by**: **ANURAG SAINI**  
+## 👑 **Created by**: **GURPINDER SINGH**  
 > _This isn’t just a chatbot, it’s a movement — built with heart, soul, code, and a dream to empower the unsung heroes of our land._
 
 ---

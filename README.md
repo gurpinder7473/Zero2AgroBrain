@@ -50,7 +50,8 @@ Open the app: **https://zero2agrobrain-d2qp95ropbccofvhmpwc9r.streamlit.app/**
 ## Architecture
 
 <p align="center">
-  <img src="assets/architecture_diagram.png" alt="Architecture Diagram" width="800"/>
+  <img src="![Uploading architecture_diagram.png…]()
+" alt="Architecture Diagram" width="800"/>
 </p>
 
 **High-level flow:**  
